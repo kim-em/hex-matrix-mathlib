@@ -1,6 +1,7 @@
 name = "hex-matrix-mathlib"
 defaultTargets = ["HexMatrixMathlib"]
 
+# Keep the HexMatrix pin in sync with the hex-matrix repo: bump both together.
 [[require]]
 name = "HexMatrix"
 git = "https://github.com/kim-em/hex-matrix.git"
