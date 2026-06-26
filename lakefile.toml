@@ -5,7 +5,7 @@ defaultTargets = ["HexMatrixMathlib"]
 [[require]]
 name = "HexMatrix"
 git = "https://github.com/kim-em/hex-matrix.git"
-rev = "9e3d029b1d95426d04b132b37ff3a1f1790f6e25"
+rev = "863836597fb000c6263042ce023a9375db33cb1f"
 
 [[require]]
 name = "mathlib"
