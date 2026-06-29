@@ -10,7 +10,7 @@ rev = "3de422434b4565933a0315338e714f303bb6442f"
 [[require]]
 name = "mathlib"
 git = "https://github.com/leanprover-community/mathlib4.git"
-rev = "v4.30.0-rc2"
+rev = "v4.32.0-rc1-patch1"
 
 [[lean_lib]]
 name = "HexMatrixMathlib"
